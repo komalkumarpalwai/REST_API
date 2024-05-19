@@ -1,0 +1,1 @@
+we have to use postman for patch, post and delete request 
